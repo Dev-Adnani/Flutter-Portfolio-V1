@@ -19,4 +19,4 @@
 
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
 
-Inspired By Codepur Aka  (MTechViral)[https://github.com/iampawan] Aka Pawan
+Inspired By Codepur Aka <a href="https://github.com/iampawan" target="_blank">MTechViral</a>  Aka Pawan
