@@ -1,0 +1,12 @@
+export 'dart:math';
+export 'package:ant_icons/ant_icons.dart';
+export 'package:flutter/material.dart';
+export 'package:portfolio/app/shared/colors.dart';
+export 'package:url_launcher/url_launcher.dart';
+export 'package:velocity_x/velocity_x.dart';
+export 'package:portfolio/meta/sections/Header/widgets/intro.header.widget.dart';
+export 'package:portfolio/meta/sections/Header/widgets/name.header.widget.dart';
+export 'package:portfolio/meta/sections/Header/widgets/social.header.widget.dart';
+export 'package:portfolio/meta/sections/Header/widgets/appBar.header.widget.dart';
+export 'package:portfolio/app/routes/social.routes.dart';
+export 'package:portfolio/meta/sections/header/widgets/image.header.widget.dart';
