@@ -1,16 +1,22 @@
-# portfolio
+# Portfolio
+[**Portfolio-Flutter**](https://devadnani.com) is a 100% free Flutter open-source resposive app built with <a href="https://flutter.dev/" target="_blank">Flutter SDK</a> using VelocityX.
 
-A new Flutter project.
+<img align="left"  height="200px" width="200px" alt="ToDo"  src="https://image.flaticon.com/icons/png/512/351/351456.png"/>
 
-## Getting Started
+##  App Features
 
-This project is a starting point for a Flutter application.
+- Simple and Classic UI/UX.
 
-A few resources to get you started if this is your first Flutter project:
+## Libraries
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Main Library Used in App (UI)
+    - Ant Icons
+    - Velocity X
+    - Url Strategy
+    - Percent Indicator
+    
+### :heart: Found this project useful?
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+
+Inspired By Codepur Aka  (MTechViral)[https://github.com/iampawan] Aka Pawan
