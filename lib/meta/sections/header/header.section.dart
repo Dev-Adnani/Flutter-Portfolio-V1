@@ -48,7 +48,7 @@ class Header extends StatelessWidget {
           ])
         ]),
       )
-          .size(context.screenWidth, context.percentHeight * 70)
+          .size(context.screenWidth, context.percentHeight * 60)
           .color(Colorz.secondaryColor)
           .make(),
     );
