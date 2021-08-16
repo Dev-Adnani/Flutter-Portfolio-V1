@@ -11,7 +11,6 @@ class IntroTextWidget extends StatelessWidget {
         .xl
         .maxLines(5)
         .make()
-        .shimmer()
         .w(context.isMobile ? context.screenWidth : context.percentWidth * 40);
   }
 }

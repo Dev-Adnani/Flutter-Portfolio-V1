@@ -14,15 +14,11 @@ class Header extends StatelessWidget {
               children: [
                 VStack([
                   if (context.isMobile) 50.heightBox else 10.heightBox,
-                  CustomAppBar().shimmer(primaryColor: Colorz.accentColor),
+                  CustomAppBar(),
                   30.heightBox,
                   NameWidget(),
                   20.heightBox,
-                  VxBox()
-                      .color(Colorz.accentColor)
-                      .size(80, 10)
-                      .make()
-                      .shimmer(primaryColor: Colorz.accentColor),
+                  VxBox().color(Colorz.accentColor).size(80, 10).make(),
                   30.heightBox,
                   SocialAccounts()
                 ]).pSymmetric(h: context.percentWidth * 10, v: 32),

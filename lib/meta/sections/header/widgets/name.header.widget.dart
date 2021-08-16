@@ -11,7 +11,6 @@ class NameWidget extends StatelessWidget {
         .lineHeight(1)
         .size(context.isMobile ? 15 : 20)
         .bold
-        .make()
-        .shimmer();
+        .make();
   }
 }
